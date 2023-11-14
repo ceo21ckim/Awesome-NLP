@@ -6,7 +6,13 @@ I share information related to the NLP what I interested in.
 
 ### Models
 
+- NNLM (NIPS'00) [A Neural Probabilistic Language Model](https://proceedings.neurips.cc/paper_files/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf)
+
+- COALS (ACM'06): [An improved model of semantic similarity based on lexical co-occurrence](https://www.cnbc.cmu.edu/~plaut/papers/pdf/RohdeGonnermanPlautSUB-CogSci.COALS.pdf)
+
 - Word2Vec (NIPS'13): [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
+- GloVe (EMNLP'14): [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)
 
 - Transformer (NIPS'17) : [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
