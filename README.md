@@ -1,14 +1,14 @@
 # Awesome Natural Language Processing
 I share information related to the NLP what I interested in.
 
-- modified : 2023-02-23
+- modified : 2023-11-15
 
 
 ### Models
 
 - Word2Vec (NIPS'13): [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
-- Transformer (2017) : [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf?ref=https://githubhelp.com)
+- Transformer (NIPS'17) : [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 - BERT (2018): [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
