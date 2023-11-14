@@ -6,7 +6,7 @@ I share information related to the NLP what I interested in.
 
 ### Models
 
-- Word2Vec (2013): [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+- Word2Vec (NIPS'13): [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
 - Transformer (2017) : [Attention is all you need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf?ref=https://githubhelp.com)
 
