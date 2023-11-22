@@ -34,6 +34,8 @@ I share information related to the NLP what I interested in.
 
 - ALBERT (2019): [Albert: A Lite Bert for Self-supervised Learning of Language Representations](https://arxiv.org/pdf/1909.11942.pdf)
 
+- SBERT (2019): [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf)
+
 - DistillBERT (2019): [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf)
 
 - GPT-3 (2020): [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
