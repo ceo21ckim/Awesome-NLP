@@ -46,6 +46,9 @@ I share information related to the NLP what I interested in.
 
 - Reformer (2020): [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
+- ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
+
+- LittleBird (2022): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
 
 ### Survey
 
