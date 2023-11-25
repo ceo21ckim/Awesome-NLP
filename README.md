@@ -46,6 +46,8 @@ I share information related to the NLP what I interested in.
 
 - Reformer (2020): [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
+- T5 (2020): [Exploring the limits of transfer learning with a unified text-to-text transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856)
+
 - Roformer (2020): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
 
 - ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
