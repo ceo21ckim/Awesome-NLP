@@ -1,7 +1,7 @@
 # Awesome Natural Language Processing
 I share information related to the NLP what I interested in.
 
-- modified : 2023-11-15
+- modified : 2023-12-03
 
 
 ### Models
@@ -48,11 +48,22 @@ I share information related to the NLP what I interested in.
 
 - T5 (2020): [Exploring the limits of transfer learning with a unified text-to-text transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856)
 
-- Roformer (2020): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
+- Roformer (2021): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
 
 - ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
 
 - LittleBird (2022): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
+
+
+### Position Embedding
+
+- [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/pdf/2009.13658.pdf)
+
+- [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
+
+- [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
+
+  
 
 ### Survey
 
