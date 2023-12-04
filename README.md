@@ -67,6 +67,8 @@ I share information related to the NLP what I interested in.
 
 - BERT (NAACL'19): [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
+- XLNet (NeurIPS'19): [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237.pdf)
+
 - GPT-2 (2019): [Language Models are Unsupervised Multitask Learners](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)
 
 - XLM (2019): [Cross-lingual Language Model Pretraining](https://arxiv.org/pdf/1901.07291.pdf)
