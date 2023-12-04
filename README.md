@@ -4,6 +4,13 @@ I share information related to the NLP what I interested in.
 - modified : 2023-12-03
 
 
+- [Neural Machine Translation](#Neural-Machine-Translation)
+- [Attention](#Attention)
+- [Position Embedding](#Position-Embedding)
+- [Survey](#Survey)
+- [Models](#Models)
+
+
 ### Neural Machine Translation
 
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) (ICML'14)
@@ -14,6 +21,24 @@ I share information related to the NLP what I interested in.
 ### Attention
 
 - [Sparse is Enough in Scaling Transformers](https://openreview.net/pdf?id=-b5OSCydOMe) (NeurIPS'21)
+
+
+
+### Position Embedding
+
+- [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/pdf/2009.13658.pdf) (EMNLP'20)
+
+- [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf) (ICLR'22)
+
+- [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf) (Neurocomputing'23)
+
+
+
+### Survey
+
+- [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/pdf/2203.01054.pdf)
+
+- [AMMUS: A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/pdf/2108.05542.pdf)
 
 
 
@@ -68,21 +93,3 @@ I share information related to the NLP what I interested in.
 - ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
 
 - LittleBird (2022): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
-
-
-### Position Embedding
-
-- [Improve Transformer Models with Better Relative Position Embeddings](https://arxiv.org/pdf/2009.13658.pdf) (EMNLP'20)
-
-- [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf) (ICLR'22)
-
-- [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf) (Neurocomputing'23)
-
-
-  
-
-### Survey
-
-- [A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges](https://arxiv.org/pdf/2203.01054.pdf)
-
-- [AMMUS: A Survey of Transformer-based Pretrained Models in Natural Language Processing](https://arxiv.org/pdf/2108.05542.pdf)
