@@ -12,6 +12,7 @@ I share information related to the NLP what I interested in.
 - [Position Embedding](#Position-Embedding)
 - [Survey](#Survey)
 - [Models](#Models)
+- [Others](#Others)
 
 
 
@@ -99,3 +100,9 @@ I share information related to the NLP what I interested in.
 - ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
 
 - LittleBird (2022): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
+
+
+
+### Others
+
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks]() (EMNLP-IJCNLP'19) `Data Augmentation`
