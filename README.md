@@ -4,6 +4,19 @@ I share information related to the NLP what I interested in.
 - modified : 2023-12-03
 
 
+### Neural Machine Translation
+
+- [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) (ICML'14)
+
+- [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf) (EMNLP'15)
+
+
+### Attention
+
+- [Sparse is Enough in Scaling Transformers](https://openreview.net/pdf?id=-b5OSCydOMe) (NeurIPS'21)
+
+
+
 ### Models
 
 - NNLM (NIPS'00) [A Neural Probabilistic Language Model](https://proceedings.neurips.cc/paper_files/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf)
@@ -11,6 +24,8 @@ I share information related to the NLP what I interested in.
 - COALS (ACM'06): [An improved model of semantic similarity based on lexical co-occurrence](https://www.cnbc.cmu.edu/~plaut/papers/pdf/RohdeGonnermanPlautSUB-CogSci.COALS.pdf)
 
 - Word2Vec (NIPS'13): [Distributed Representations of Words and Phrases and their Compositionality](https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
+- Seq2Seq (ICML'14): [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf)
 
 - GloVe (EMNLP'14): [GloVe: Global Vectors for Word Representation](https://aclanthology.org/D14-1162.pdf)
 
