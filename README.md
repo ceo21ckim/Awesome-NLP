@@ -112,3 +112,4 @@ I share information related to the NLP what I interested in.
 ### Others
 
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks]() (EMNLP-IJCNLP'19) `Data Augmentation`
+- [Visualizing and Understanding Recurrent Networks](ICLR'16) `eXplainable AI`
