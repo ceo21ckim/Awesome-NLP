@@ -113,3 +113,4 @@ I share information related to the NLP what I interested in.
 
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196.pdf) (EMNLP-IJCNLP'19) `Data Augmentation`
 - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf) (ICLR'16) `eXplainable AI`
+- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping] (ArXiv'20) `Fine-Tuning`
