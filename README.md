@@ -53,23 +53,23 @@ I share information related to the NLP what I interested in.
 
 - Mamba (ICLR'24): [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 
-- LittleBird (2022): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
+- LittleBird (EMNLP'22): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
 
-- ALiBi (2021): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
+- ALiBi (ICLR'22): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
 
-- Roformer (2021): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
+- Roformer (Neurocomputing'21): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
 
-- SimCSE (2021): [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf)
+- SimCSE (EMNLP'21): [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/pdf/2104.08821.pdf)
 
-- GPT-3 (2020): [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+- GPT-3 (NIPS'20): [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
-- ELECTRA (2020): [Electra: Pre-training text encoders as discriminators rather than generators](https://arxiv.org/pdf/2003.10555.pdf)
+- ELECTRA (ICLR'20): [Electra: Pre-training text encoders as discriminators rather than generators](https://arxiv.org/pdf/2003.10555.pdf)
 
-- BigBird (2020): [Big bird: Transformers for Longer Sequences](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+- BigBird (NIPS'20): [Big bird: Transformers for Longer Sequences](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
 
-- Reformer (2020): [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
+- Reformer (ICLR'20): [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
-- T5 (2020): [Exploring the limits of transfer learning with a unified text-to-text transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856)
+- T5 (JMLR'20): [Exploring the limits of transfer learning with a unified text-to-text transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856)
 
 - BERT (NAACL'19): [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
