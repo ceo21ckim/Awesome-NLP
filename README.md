@@ -56,6 +56,13 @@ I share information related to the NLP what I interested in.
 
 - Mamba (ICLR'24): [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 
+- Chameleon (NIPS'23): [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
+
+- Program of Thoughts (TMLR'23): [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
+](https://arxiv.org/pdf/2211.12588.pdf)
+
+- Chain-of-Thought (NIPS'22): [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+
 - LittleBird (EMNLP'22): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
 
 - ALiBi (ICLR'22): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
