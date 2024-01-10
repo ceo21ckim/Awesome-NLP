@@ -14,6 +14,9 @@ I share information related to the NLP what I interested in.
 - [Models](#Models)
 - [Others](#Others)
 
+# Datasets
+
+- (Ko-Ethical-QnA](https://huggingface.co/datasets/MrBananaHuman/kor_ethical_question_answer): 한국어 윤리적/비윤리적 답변 
 
 
 # Papers
