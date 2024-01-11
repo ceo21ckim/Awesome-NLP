@@ -21,6 +21,19 @@ I share information related to the NLP what I interested in.
 
 # Papers
 
+### LLM
+
+- AnyText (ICLR'23): [AnyText: Multilingual Visual Text Generation And Editing](https://arxiv.org/pdf/2311.03054.pdf)
+- SOLAR-10.7B (arXiv'23): [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/pdf/2312.15166.pdf)
+- Chameleon (NIPS'23): [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
+- Program of Thoughts (TMLR'23): [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
+](https://arxiv.org/pdf/2211.12588.pdf)
+- Chain-of-Thought (NIPS'22): [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
+- IA3 (NIPS'22): [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638.pdf)
+- LoRA (ICLR'22): [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
+- MoE (ICLR'17): [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
+
+
 ### Neural Machine Translation
 
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215.pdf) (ICML'14)
@@ -56,24 +69,9 @@ I share information related to the NLP what I interested in.
 
 - Mamba (ICLR'24): [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
 
-- AnyText (ICLR'23): [AnyText: Multilingual Visual Text Generation And Editing](https://arxiv.org/pdf/2311.03054.pdf)
-
-- SOLAR-10.7B (arXiv'23): [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/pdf/2312.15166.pdf)
-
-- Chameleon (NIPS'23): [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
-
-- Program of Thoughts (TMLR'23): [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
-](https://arxiv.org/pdf/2211.12588.pdf)
-
-- Chain-of-Thought (NIPS'22): [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
-
 - LittleBird (EMNLP'22): [LittleBird: Efficient Faster & Longer Transformer for Question Answering](https://aclanthology.org/2022.emnlp-main.352.pdf)
 
 - ALiBi (ICLR'22): [Train short, test long: Attention with linear biases enables input length extrapolation](https://arxiv.org/pdf/2108.12409.pdf)
-
-- IA3 (NIPS'22): [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638.pdf)
-
-- LoRA (ICLR'22): [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
 
 - Roformer (Neurocomputing'21): [Roformer: Enhanced transformer with rotary position embedding](https://arxiv.org/pdf/2104.09864.pdf)
 
@@ -137,4 +135,3 @@ I share information related to the NLP what I interested in.
 - [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/pdf/2002.06305.pdf) (ArXiv'20) `Fine-Tuning`
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196.pdf) (EMNLP-IJCNLP'19) `Data Augmentation`
 - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf) (ICLR'16) `eXplainable AI`
-- MoE (ICLR'17): [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
