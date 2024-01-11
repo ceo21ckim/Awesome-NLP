@@ -1,0 +1,15 @@
+## Code Asset
+
+- [Reformer](https://colab.research.google.com/github/patrickvonplaten/blog/blob/master/notebooks/03_reformer.ipynb#scrollTo=mLMgZt_38dtR)
+- [Reformer-Pytorch](https://github.com/patrickvonplaten/notebooks/blob/master/PyTorch_Reformer.ipynb)
+- [Reformer-Masked](https://github.com/patrickvonplaten/notebooks/blob/master/Reformer_For_Masked_LM.ipynb)
+- [Training RoBERTa from scratch](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/index.html)
+- [Transformers Summarization](https://github.com/abhimishra91/transformers-tutorials/blob/master/transformers_summarization_wandb.ipynb)
+- [mT5 QnA](https://www.kaggle.com/code/parthplc/mt5-inference-for-question-generation/notebook)
+- [mT5 Fine-Tuning](https://www.kaggle.com/code/parthplc/finetune-mt5-for-question-generation-in-hindi/notebook)
+- [Longformer](https://github.com/allenai/longformer/blob/master/scr%69pts/convert_model_to_long.ipynb)
+- [how-to-train](https://colab.research.google.com/github/huggingface/blog/blob/master/notebooks/01_how_to_train.ipynb#scrollTo=5oESe8djApQw)
+- [RoBERTa-XSum](https://github.com/patrickvonplaten/notebooks/blob/master/RoBERTaShared_for_BBC_XSum.ipynb)
+- [Longformer-QnA](https://github.com/patil-suraj/Notebooks/blob/master/longformer_qa_training.ipynb)
+- [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers/tree/master)
+- [multi-modal transformer](https://ichi.pro/ko/huggingface-transformerswa-teibeul-hyeongsig-deiteoleul-tonghabhaneun-bangbeob-201256872169396)
