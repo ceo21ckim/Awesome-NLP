@@ -131,7 +131,8 @@ I share information related to the NLP what I interested in.
 
 ### Others
 
+- [Learning to Memorize Entailment and Discourse Relations for Persona-Consistent]() (AAAI'23) `Persona`
+- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/pdf/2002.06305.pdf) (ArXiv'20) `Fine-Tuning`
 - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196.pdf) (EMNLP-IJCNLP'19) `Data Augmentation`
 - [Visualizing and Understanding Recurrent Networks](https://arxiv.org/pdf/1506.02078.pdf) (ICLR'16) `eXplainable AI`
-- [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/pdf/2002.06305.pdf) (ArXiv'20) `Fine-Tuning`
-- [Learning to Memorize Entailment and Discourse Relations for Persona-Consistent]() (AAAI'23) `Persona`
+- MoE (ICLR'17): [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
