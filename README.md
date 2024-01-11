@@ -83,6 +83,8 @@ I share information related to the NLP what I interested in.
 
 - Reformer (ICLR'20): [Reformer: The efficient transformer](https://arxiv.org/pdf/2001.04451.pdf)
 
+- Meena (arXiv'20): [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/pdf/2001.09977.pdf)
+
 - T5 (JMLR'20): [Exploring the limits of transfer learning with a unified text-to-text transformer](https://dl.acm.org/doi/pdf/10.5555/3455716.3455856)
 
 - BERT (NAACL'19): [Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
