@@ -1,7 +1,7 @@
 # Awesome Natural Language Processing
 I share information related to the NLP what I interested in.
 
-- modified : 2023-12-03
+- modified : 2024-01-11
 
 
 
@@ -55,6 +55,8 @@ I share information related to the NLP what I interested in.
 ### Models
 
 - Mamba (ICLR'24): [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/ftp/arxiv/papers/2312/2312.00752.pdf)
+
+- SOLAR-10.7B (arXiv'23): [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/pdf/2312.15166.pdf)
 
 - Chameleon (NIPS'23): [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
 
