@@ -23,15 +23,15 @@ I share information related to the NLP what I interested in.
 
 ### LLM
 
-- AnyText (ICLR'23): [AnyText: Multilingual Visual Text Generation And Editing](https://arxiv.org/pdf/2311.03054.pdf)
-- SOLAR-10.7B (arXiv'23): [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/pdf/2312.15166.pdf)
-- Chameleon (NIPS'23): [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf)
-- Program of Thoughts (TMLR'23): [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
-](https://arxiv.org/pdf/2211.12588.pdf)
-- Chain-of-Thought (NIPS'22): [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
-- IA3 (NIPS'22): [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638.pdf)
-- LoRA (ICLR'22): [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf)
-- MoE (ICLR'17): [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf)
+- [Do Prompt-Based Models Really Understand the Meaning of Their Prompts?](https://openreview.net/pdf?id=BhGMkxhZrW9) (NAACL'23)
+- [AnyText: Multilingual Visual Text Generation And Editing](https://arxiv.org/pdf/2311.03054.pdf) (ICLR'23)
+- [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/pdf/2312.15166.pdf) (arXiv'23): 
+- [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/pdf/2304.09842.pdf) (NIPS'23)
+- [Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks](https://arxiv.org/pdf/2211.12588.pdf) (TMLR'23):
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (NIPS'22)
+- [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/pdf/2205.05638.pdf) (NIPS'22)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) (ICLR'22)
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538.pdf) (ICLR'17)
 
 
 ### Neural Machine Translation
