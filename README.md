@@ -18,6 +18,8 @@ I share information related to the NLP what I interested in.
 
 - [Ko-Ethical-QnA](https://huggingface.co/datasets/MrBananaHuman/kor_ethical_question_answer): 한국어 윤리적/비윤리적 답변 
 - [KorQuAD](https://huggingface.co/datasets/squad_kor_v1): 한국어 질문/답변
+- [KLUE](https://klue-benchmark.com/tasks): 한국어 이해 능력 평가를 위한 데이터셋
+- [KorNLI](https://huggingface.co/datasets/kor_nli): 
 
 # Papers
 
