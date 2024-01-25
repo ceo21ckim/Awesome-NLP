@@ -17,7 +17,7 @@ I share information related to the NLP what I interested in.
 # Datasets
 
 - [Ko-Ethical-QnA](https://huggingface.co/datasets/MrBananaHuman/kor_ethical_question_answer): 한국어 윤리적/비윤리적 답변 
-- [KorQuAD](https://huggingface.co/datasets/squad_kor_v1) 한국어 질문/답변
+- [KorQuAD](https://huggingface.co/datasets/squad_kor_v1): 한국어 질문/답변
 
 # Papers
 
