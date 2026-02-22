@@ -1,5 +1,5 @@
 
-- AlpacaEval (24.04): [Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators](https://arxiv.org/pdf/2404.04475)
+- AlpacaEval-LC (24.04): [Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators](https://arxiv.org/pdf/2404.04475)
 - Chatbot Arena (24.03): [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://arxiv.org/pdf/2403.04132)
 - RLHF Long way to go (23.10): [A Long Way to Go: Investigating Length Correlations in RLHF](https://arxiv.org/pdf/2310.03716)
 - AlpacaFarm (23.05): [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://arxiv.org/pdf/2305.14387)
